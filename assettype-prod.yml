@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 assettype:
-  message: "Welcome to Asset Type related WEBHOOK(LATEST UPDATED) APIs "
+  message: "Welcome to Asset Type related WEBHOOK(LATEST) APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}96210c3e75b1efcd35a643d4b9bc4650bb6d04ffdd604d2198d13bb9af1087939ce7d4662f3ca0c5cfcd037eae6ae8b1"
