@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 assettype:
-  message: "Welcome to Asset Type related WEBHOOK updated APIs "
+  message: "Welcome to Asset Type related WEBHOOK UPDATED APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
